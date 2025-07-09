@@ -1,0 +1,15 @@
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\bin\Debug\net9.0\oop2.exe
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\bin\Debug\net9.0\oop2.deps.json
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\bin\Debug\net9.0\oop2.runtimeconfig.json
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\bin\Debug\net9.0\oop2.dll
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\bin\Debug\net9.0\oop2.pdb
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.AssemblyInfoInputs.cache
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.AssemblyInfo.cs
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.csproj.CoreCompileInputs.cache
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.sourcelink.json
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.dll
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\refint\oop2.dll
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.pdb
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\oop2.genruntimeconfig.cache
+C:\Users\hanam\OneDrive\Documents\asp.net\C#\oop\oop2\obj\Debug\net9.0\ref\oop2.dll
