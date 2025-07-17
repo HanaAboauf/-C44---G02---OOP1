@@ -1,4 +1,5 @@
 ﻿using oop3.question2;
+using oop3.question3;
 
 namespace ConsoleApp1
 {
@@ -6,17 +7,37 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
-            IAuthenticationService authenticationService = new BasicAuthenticationService();
+            #region question2
 
-            Console.WriteLine(authenticationService.AuthenticateUser("admin", "password"));
+            //IAuthenticationService authenticationService = new BasicAuthenticationService();
 
-            Console.WriteLine(authenticationService.AuthenticateUser("admin", "pasword"));
+            //Console.WriteLine(authenticationService.AuthenticateUser("admin", "password"));
 
-            Console.WriteLine(authenticationService.AuthorizeUser("admin", "Administrator"));
+            //Console.WriteLine(authenticationService.AuthenticateUser("admin", "pasword"));
 
-            Console.WriteLine(authenticationService.AuthorizeUser("admin", "user"));
+            //Console.WriteLine(authenticationService.AuthorizeUser("admin", "Administrator"));
+
+            //Console.WriteLine(authenticationService.AuthorizeUser("admin", "user"));
+
+            #endregion
+
+            #region question3
+
+            INotificationService emailService = new EmailNotificationService();
+            INotificationService smsService = new SmsNotificationService();
+            INotificationService pushService = new PushNotificationService();
+
+            string message = "Your verification code is 123456";
+
+            emailService.SendNotification("hana.abuauf@example.com", message);
+            smsService.SendNotification("+1097261273", message);
+            pushService.SendNotification("device_token", message);
+
+
+            #endregion
+
+
 
         }
     }
