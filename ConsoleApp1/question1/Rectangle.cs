@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace oop3
+namespace oop3.question1
 {
     internal class Rectangle: IRectangle
     {
